@@ -1,2 +1,2 @@
 # plain-nodejs-echo-server
-A echo HTTP server written in plain Node.js 
+An HTTP server which echo the post parameters in a nice looking table format. The app is completely written in plain Node.js 
